@@ -1,0 +1,62 @@
+Variable Types:
+---------------------------------------------------------
+
+1. Boolean Variables (boolean/Boolean):
+Booleans represent two states: true or false.
+Data Range: Can hold only true or false.
+Example: "boolean isStudent = true;"
+Example: "Boolean isStudent = true;"
+
+2. Byte Variables (byte/Byte):
+Bytes store small numbers within a limited range.
+Data Range: From -128 to 127.
+Example: "byte data = 100;"
+
+3. Short Variables (short/Short):
+Shorts store small integers with a larger range than bytes.
+Data Range: From -32,768 to 32,767.
+Example: "short population = 20000;"
+
+4. Integer Variables (int/Integer):
+Integers store whole numbers without decimal points.
+Data Range: From approximately -2.1 billion to +2.1 billion.
+Example: "int age = 25;"
+Example: "Integer age = 25;"
+
+5. Long Variables (long/Long):
+Longs store larger whole numbers.
+Data Range: Approximately ±9.2 quintillion.
+Example: "long distance = 1000000000L;"
+
+6. Floating Variables (float/Float):
+Floats store decimal values with precision.
+Data Range: Approximately ±3.40282347 x 10^38.
+Example: "float height = 1.75F;"
+Example: "Float height = 1.75F;"
+
+7. Double Variables (double/Double):
+Doubles store decimal values with precision.
+Data Range: Approximately ±1.7976931348623157 x 10^308.
+Example: "double height = 1.75;"
+Example: "Double height = 1.75;"
+
+8. Character Variables (char/Character):
+Characters store single characters, like letters or symbols.
+Data Range: Represents Unicode characters (e.g., 'A', 'B', '$', etc.).
+Example: "char grade = 'A';"
+Example: "Character grade = 'A';"
+
+9. String Variables (String):
+Strings store sequences of characters.
+Data Range: Unlimited characters;" holds sequences of text.
+Example: "String name = "John Doe";"
+
+10. Array Variables:
+Arrays store multiple values of the same data type in a single variable.
+Data Range: Depends on the data type of elements within the array.
+Example: "int[] numbers = {1, 2, 3, 4, 5};"
+
+11. Object Variables:
+Objects are instances of classes representing complex data structures.
+Data Range: Object references that can point to instances of various classes.
+Example: "Date today = new Date();"
